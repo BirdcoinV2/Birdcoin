@@ -1,10 +1,10 @@
-Birdcoin integration/staging tree
+BirdcoinV2 integration/staging tree
 ================================
 
-http://www.birdcoin.org
+http://www.birdcoin.net
 
 Copyright (c) 2009-2013 Bitcoin Developers
-Copyright (c) 2011-2013 Birdcoin Developers
+Copyright (c) 2014 BirdcoinV2 Developers and Community
 
 
 
